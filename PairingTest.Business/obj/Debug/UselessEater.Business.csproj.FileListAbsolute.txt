@@ -1,0 +1,7 @@
+c:\users\stefa\onedrive\documents\visual studio 2017\Projects\UselessEater\UselessEater.Business\bin\Debug\UselessEater.Business.dll
+c:\users\stefa\onedrive\documents\visual studio 2017\Projects\UselessEater\UselessEater.Business\bin\Debug\UselessEater.Business.pdb
+c:\users\stefa\onedrive\documents\visual studio 2017\Projects\UselessEater\UselessEater.Business\bin\Debug\UselessEater.Models.dll
+c:\users\stefa\onedrive\documents\visual studio 2017\Projects\UselessEater\UselessEater.Business\bin\Debug\UselessEater.Models.pdb
+c:\users\stefa\onedrive\documents\visual studio 2017\Projects\UselessEater\UselessEater.Business\obj\Debug\UselessEater.Business.csprojResolveAssemblyReference.cache
+c:\users\stefa\onedrive\documents\visual studio 2017\Projects\UselessEater\UselessEater.Business\obj\Debug\UselessEater.Business.dll
+c:\users\stefa\onedrive\documents\visual studio 2017\Projects\UselessEater\UselessEater.Business\obj\Debug\UselessEater.Business.pdb

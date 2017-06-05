@@ -1,0 +1,4 @@
+c:\users\stefa\onedrive\documents\visual studio 2017\Projects\UselessEater\UselessEater.Models\bin\Debug\UselessEater.Models.dll
+c:\users\stefa\onedrive\documents\visual studio 2017\Projects\UselessEater\UselessEater.Models\bin\Debug\UselessEater.Models.pdb
+c:\users\stefa\onedrive\documents\visual studio 2017\Projects\UselessEater\UselessEater.Models\obj\Debug\UselessEater.Models.dll
+c:\users\stefa\onedrive\documents\visual studio 2017\Projects\UselessEater\UselessEater.Models\obj\Debug\UselessEater.Models.pdb

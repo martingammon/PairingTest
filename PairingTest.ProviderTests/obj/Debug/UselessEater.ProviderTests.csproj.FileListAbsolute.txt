@@ -1,0 +1,40 @@
+c:\users\stefa\onedrive\documents\visual studio 2017\Projects\UselessEater\UselessEater.ProviderTests\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTest.TestAdapter.dll
+c:\users\stefa\onedrive\documents\visual studio 2017\Projects\UselessEater\UselessEater.ProviderTests\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.Interface.dll
+c:\users\stefa\onedrive\documents\visual studio 2017\Projects\UselessEater\UselessEater.ProviderTests\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.dll
+c:\users\stefa\onedrive\documents\visual studio 2017\Projects\UselessEater\UselessEater.ProviderTests\bin\Debug\UselessEater.ProviderTests.dll
+c:\users\stefa\onedrive\documents\visual studio 2017\Projects\UselessEater\UselessEater.ProviderTests\bin\Debug\UselessEater.ProviderTests.pdb
+c:\users\stefa\onedrive\documents\visual studio 2017\Projects\UselessEater\UselessEater.ProviderTests\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.dll
+c:\users\stefa\onedrive\documents\visual studio 2017\Projects\UselessEater\UselessEater.ProviderTests\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.dll
+c:\users\stefa\onedrive\documents\visual studio 2017\Projects\UselessEater\UselessEater.ProviderTests\bin\Debug\UselessEater.Business.dll
+c:\users\stefa\onedrive\documents\visual studio 2017\Projects\UselessEater\UselessEater.ProviderTests\bin\Debug\UselessEater.Models.dll
+c:\users\stefa\onedrive\documents\visual studio 2017\Projects\UselessEater\UselessEater.ProviderTests\bin\Debug\UselessEater.Providers.dll
+c:\users\stefa\onedrive\documents\visual studio 2017\Projects\UselessEater\UselessEater.ProviderTests\bin\Debug\Autofac.dll
+c:\users\stefa\onedrive\documents\visual studio 2017\Projects\UselessEater\UselessEater.ProviderTests\bin\Debug\UselessEater.Business.pdb
+c:\users\stefa\onedrive\documents\visual studio 2017\Projects\UselessEater\UselessEater.ProviderTests\bin\Debug\UselessEater.Models.pdb
+c:\users\stefa\onedrive\documents\visual studio 2017\Projects\UselessEater\UselessEater.ProviderTests\bin\Debug\UselessEater.Providers.pdb
+c:\users\stefa\onedrive\documents\visual studio 2017\Projects\UselessEater\UselessEater.ProviderTests\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.xml
+c:\users\stefa\onedrive\documents\visual studio 2017\Projects\UselessEater\UselessEater.ProviderTests\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.xml
+c:\users\stefa\onedrive\documents\visual studio 2017\Projects\UselessEater\UselessEater.ProviderTests\bin\Debug\Autofac.xml
+c:\users\stefa\onedrive\documents\visual studio 2017\Projects\UselessEater\UselessEater.ProviderTests\obj\Debug\UselessEater.ProviderTests.csprojResolveAssemblyReference.cache
+c:\users\stefa\onedrive\documents\visual studio 2017\Projects\UselessEater\UselessEater.ProviderTests\obj\Debug\UselessEater.ProviderTests.dll
+c:\users\stefa\onedrive\documents\visual studio 2017\Projects\UselessEater\UselessEater.ProviderTests\obj\Debug\UselessEater.ProviderTests.pdb
+E:\PluralSight\Projects\UselessEater\UselessEater\UselessEater.ProviderTests\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTest.TestAdapter.dll
+E:\PluralSight\Projects\UselessEater\UselessEater\UselessEater.ProviderTests\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.Interface.dll
+E:\PluralSight\Projects\UselessEater\UselessEater\UselessEater.ProviderTests\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.dll
+E:\PluralSight\Projects\UselessEater\UselessEater\UselessEater.ProviderTests\bin\Debug\UselessEater.ProviderTests.dll
+E:\PluralSight\Projects\UselessEater\UselessEater\UselessEater.ProviderTests\bin\Debug\UselessEater.ProviderTests.pdb
+E:\PluralSight\Projects\UselessEater\UselessEater\UselessEater.ProviderTests\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.dll
+E:\PluralSight\Projects\UselessEater\UselessEater\UselessEater.ProviderTests\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.dll
+E:\PluralSight\Projects\UselessEater\UselessEater\UselessEater.ProviderTests\bin\Debug\UselessEater.Business.dll
+E:\PluralSight\Projects\UselessEater\UselessEater\UselessEater.ProviderTests\bin\Debug\UselessEater.Models.dll
+E:\PluralSight\Projects\UselessEater\UselessEater\UselessEater.ProviderTests\bin\Debug\UselessEater.Providers.dll
+E:\PluralSight\Projects\UselessEater\UselessEater\UselessEater.ProviderTests\bin\Debug\Autofac.dll
+E:\PluralSight\Projects\UselessEater\UselessEater\UselessEater.ProviderTests\bin\Debug\UselessEater.Business.pdb
+E:\PluralSight\Projects\UselessEater\UselessEater\UselessEater.ProviderTests\bin\Debug\UselessEater.Models.pdb
+E:\PluralSight\Projects\UselessEater\UselessEater\UselessEater.ProviderTests\bin\Debug\UselessEater.Providers.pdb
+E:\PluralSight\Projects\UselessEater\UselessEater\UselessEater.ProviderTests\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.xml
+E:\PluralSight\Projects\UselessEater\UselessEater\UselessEater.ProviderTests\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.xml
+E:\PluralSight\Projects\UselessEater\UselessEater\UselessEater.ProviderTests\bin\Debug\Autofac.xml
+E:\PluralSight\Projects\UselessEater\UselessEater\UselessEater.ProviderTests\obj\Debug\UselessEater.ProviderTests.csprojResolveAssemblyReference.cache
+E:\PluralSight\Projects\UselessEater\UselessEater\UselessEater.ProviderTests\obj\Debug\UselessEater.ProviderTests.dll
+E:\PluralSight\Projects\UselessEater\UselessEater\UselessEater.ProviderTests\obj\Debug\UselessEater.ProviderTests.pdb

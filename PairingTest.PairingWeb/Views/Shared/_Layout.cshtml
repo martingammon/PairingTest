@@ -1,0 +1,17 @@
+﻿@using System.Web.Optimization
+<!DOCTYPE html>
+
+<html>
+<head>
+    <meta name="viewport" content="width=device-width" />
+    <title>@ViewBag.Title</title>
+    @Styles.Render("~/Bundles/Styles")
+</head>
+<body ng-app="Questionnaire">
+<div class="container-fluid">
+    @RenderBody()
+</div>
+@RenderSection("scripts", required: false)
+</body>
+</html>
+

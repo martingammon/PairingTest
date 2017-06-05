@@ -1,0 +1,79 @@
+c:\users\stefa\onedrive\documents\visual studio 2017\Projects\UselessEater\UselessEater.QuestionServiceApi.Tests\bin\Debug\roslyn\csc.exe
+c:\users\stefa\onedrive\documents\visual studio 2017\Projects\UselessEater\UselessEater.QuestionServiceApi.Tests\bin\Debug\roslyn\csc.exe.config
+c:\users\stefa\onedrive\documents\visual studio 2017\Projects\UselessEater\UselessEater.QuestionServiceApi.Tests\bin\Debug\roslyn\csc.rsp
+c:\users\stefa\onedrive\documents\visual studio 2017\Projects\UselessEater\UselessEater.QuestionServiceApi.Tests\bin\Debug\roslyn\csi.exe
+c:\users\stefa\onedrive\documents\visual studio 2017\Projects\UselessEater\UselessEater.QuestionServiceApi.Tests\bin\Debug\roslyn\csi.rsp
+c:\users\stefa\onedrive\documents\visual studio 2017\Projects\UselessEater\UselessEater.QuestionServiceApi.Tests\bin\Debug\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+c:\users\stefa\onedrive\documents\visual studio 2017\Projects\UselessEater\UselessEater.QuestionServiceApi.Tests\bin\Debug\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+c:\users\stefa\onedrive\documents\visual studio 2017\Projects\UselessEater\UselessEater.QuestionServiceApi.Tests\bin\Debug\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+c:\users\stefa\onedrive\documents\visual studio 2017\Projects\UselessEater\UselessEater.QuestionServiceApi.Tests\bin\Debug\roslyn\Microsoft.CodeAnalysis.dll
+c:\users\stefa\onedrive\documents\visual studio 2017\Projects\UselessEater\UselessEater.QuestionServiceApi.Tests\bin\Debug\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+c:\users\stefa\onedrive\documents\visual studio 2017\Projects\UselessEater\UselessEater.QuestionServiceApi.Tests\bin\Debug\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+c:\users\stefa\onedrive\documents\visual studio 2017\Projects\UselessEater\UselessEater.QuestionServiceApi.Tests\bin\Debug\roslyn\Microsoft.CSharp.Core.targets
+c:\users\stefa\onedrive\documents\visual studio 2017\Projects\UselessEater\UselessEater.QuestionServiceApi.Tests\bin\Debug\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+c:\users\stefa\onedrive\documents\visual studio 2017\Projects\UselessEater\UselessEater.QuestionServiceApi.Tests\bin\Debug\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+c:\users\stefa\onedrive\documents\visual studio 2017\Projects\UselessEater\UselessEater.QuestionServiceApi.Tests\bin\Debug\roslyn\Microsoft.VisualBasic.Core.targets
+c:\users\stefa\onedrive\documents\visual studio 2017\Projects\UselessEater\UselessEater.QuestionServiceApi.Tests\bin\Debug\roslyn\System.AppContext.dll
+c:\users\stefa\onedrive\documents\visual studio 2017\Projects\UselessEater\UselessEater.QuestionServiceApi.Tests\bin\Debug\roslyn\System.Collections.Immutable.dll
+c:\users\stefa\onedrive\documents\visual studio 2017\Projects\UselessEater\UselessEater.QuestionServiceApi.Tests\bin\Debug\roslyn\System.Diagnostics.StackTrace.dll
+c:\users\stefa\onedrive\documents\visual studio 2017\Projects\UselessEater\UselessEater.QuestionServiceApi.Tests\bin\Debug\roslyn\System.IO.FileSystem.dll
+c:\users\stefa\onedrive\documents\visual studio 2017\Projects\UselessEater\UselessEater.QuestionServiceApi.Tests\bin\Debug\roslyn\System.IO.FileSystem.Primitives.dll
+c:\users\stefa\onedrive\documents\visual studio 2017\Projects\UselessEater\UselessEater.QuestionServiceApi.Tests\bin\Debug\roslyn\System.Reflection.Metadata.dll
+c:\users\stefa\onedrive\documents\visual studio 2017\Projects\UselessEater\UselessEater.QuestionServiceApi.Tests\bin\Debug\roslyn\vbc.exe
+c:\users\stefa\onedrive\documents\visual studio 2017\Projects\UselessEater\UselessEater.QuestionServiceApi.Tests\bin\Debug\roslyn\vbc.exe.config
+c:\users\stefa\onedrive\documents\visual studio 2017\Projects\UselessEater\UselessEater.QuestionServiceApi.Tests\bin\Debug\roslyn\vbc.rsp
+c:\users\stefa\onedrive\documents\visual studio 2017\Projects\UselessEater\UselessEater.QuestionServiceApi.Tests\bin\Debug\roslyn\VBCSCompiler.exe
+c:\users\stefa\onedrive\documents\visual studio 2017\Projects\UselessEater\UselessEater.QuestionServiceApi.Tests\bin\Debug\roslyn\VBCSCompiler.exe.config
+c:\users\stefa\onedrive\documents\visual studio 2017\Projects\UselessEater\UselessEater.QuestionServiceApi.Tests\bin\Debug\UselessEater.QuestionServiceApi.Tests.dll
+c:\users\stefa\onedrive\documents\visual studio 2017\Projects\UselessEater\UselessEater.QuestionServiceApi.Tests\bin\Debug\UselessEater.QuestionServiceApi.Tests.pdb
+c:\users\stefa\onedrive\documents\visual studio 2017\Projects\UselessEater\UselessEater.QuestionServiceApi.Tests\bin\Debug\Microsoft.VisualStudio.QualityTools.UnitTestFramework.dll
+c:\users\stefa\onedrive\documents\visual studio 2017\Projects\UselessEater\UselessEater.QuestionServiceApi.Tests\bin\Debug\Newtonsoft.Json.dll
+c:\users\stefa\onedrive\documents\visual studio 2017\Projects\UselessEater\UselessEater.QuestionServiceApi.Tests\bin\Debug\System.Net.Http.Formatting.dll
+c:\users\stefa\onedrive\documents\visual studio 2017\Projects\UselessEater\UselessEater.QuestionServiceApi.Tests\bin\Debug\System.Web.Http.dll
+c:\users\stefa\onedrive\documents\visual studio 2017\Projects\UselessEater\UselessEater.QuestionServiceApi.Tests\bin\Debug\UselessEater.Business.dll
+c:\users\stefa\onedrive\documents\visual studio 2017\Projects\UselessEater\UselessEater.QuestionServiceApi.Tests\bin\Debug\UselessEater.Models.dll
+c:\users\stefa\onedrive\documents\visual studio 2017\Projects\UselessEater\UselessEater.QuestionServiceApi.Tests\bin\Debug\UselessEater.Providers.dll
+c:\users\stefa\onedrive\documents\visual studio 2017\Projects\UselessEater\UselessEater.QuestionServiceApi.Tests\bin\Debug\UselessEater.QuestionServiceApi.dll
+c:\users\stefa\onedrive\documents\visual studio 2017\Projects\UselessEater\UselessEater.QuestionServiceApi.Tests\bin\Debug\Autofac.dll
+c:\users\stefa\onedrive\documents\visual studio 2017\Projects\UselessEater\UselessEater.QuestionServiceApi.Tests\bin\Debug\System.Web.Http.WebHost.dll
+c:\users\stefa\onedrive\documents\visual studio 2017\Projects\UselessEater\UselessEater.QuestionServiceApi.Tests\bin\Debug\UselessEater.Business.pdb
+c:\users\stefa\onedrive\documents\visual studio 2017\Projects\UselessEater\UselessEater.QuestionServiceApi.Tests\bin\Debug\UselessEater.Models.pdb
+c:\users\stefa\onedrive\documents\visual studio 2017\Projects\UselessEater\UselessEater.QuestionServiceApi.Tests\bin\Debug\UselessEater.Providers.pdb
+c:\users\stefa\onedrive\documents\visual studio 2017\Projects\UselessEater\UselessEater.QuestionServiceApi.Tests\bin\Debug\UselessEater.QuestionServiceApi.pdb
+c:\users\stefa\onedrive\documents\visual studio 2017\Projects\UselessEater\UselessEater.QuestionServiceApi.Tests\bin\Debug\UselessEater.QuestionServiceApi.dll.config
+c:\users\stefa\onedrive\documents\visual studio 2017\Projects\UselessEater\UselessEater.QuestionServiceApi.Tests\bin\Debug\Newtonsoft.Json.xml
+c:\users\stefa\onedrive\documents\visual studio 2017\Projects\UselessEater\UselessEater.QuestionServiceApi.Tests\bin\Debug\System.Net.Http.Formatting.xml
+c:\users\stefa\onedrive\documents\visual studio 2017\Projects\UselessEater\UselessEater.QuestionServiceApi.Tests\bin\Debug\System.Web.Http.xml
+c:\users\stefa\onedrive\documents\visual studio 2017\Projects\UselessEater\UselessEater.QuestionServiceApi.Tests\bin\Debug\Autofac.xml
+c:\users\stefa\onedrive\documents\visual studio 2017\Projects\UselessEater\UselessEater.QuestionServiceApi.Tests\bin\Debug\System.Web.Http.WebHost.xml
+c:\users\stefa\onedrive\documents\visual studio 2017\Projects\UselessEater\UselessEater.QuestionServiceApi.Tests\obj\Debug\UselessEater.QuestionServiceApi.Tests.csprojResolveAssemblyReference.cache
+c:\users\stefa\onedrive\documents\visual studio 2017\Projects\UselessEater\UselessEater.QuestionServiceApi.Tests\obj\Debug\UselessEater.QuestionServiceApi.Tests.dll
+c:\users\stefa\onedrive\documents\visual studio 2017\Projects\UselessEater\UselessEater.QuestionServiceApi.Tests\obj\Debug\UselessEater.QuestionServiceApi.Tests.pdb
+E:\PluralSight\Projects\UselessEater\UselessEater\UselessEater.QuestionServiceApi.Tests\bin\Debug\UselessEater.QuestionServiceApi.Tests.dll
+E:\PluralSight\Projects\UselessEater\UselessEater\UselessEater.QuestionServiceApi.Tests\bin\Debug\UselessEater.QuestionServiceApi.Tests.pdb
+E:\PluralSight\Projects\UselessEater\UselessEater\UselessEater.QuestionServiceApi.Tests\bin\Debug\Microsoft.VisualStudio.QualityTools.UnitTestFramework.dll
+E:\PluralSight\Projects\UselessEater\UselessEater\UselessEater.QuestionServiceApi.Tests\bin\Debug\Newtonsoft.Json.dll
+E:\PluralSight\Projects\UselessEater\UselessEater\UselessEater.QuestionServiceApi.Tests\bin\Debug\System.Net.Http.Formatting.dll
+E:\PluralSight\Projects\UselessEater\UselessEater\UselessEater.QuestionServiceApi.Tests\bin\Debug\System.Web.Http.dll
+E:\PluralSight\Projects\UselessEater\UselessEater\UselessEater.QuestionServiceApi.Tests\bin\Debug\UselessEater.Business.dll
+E:\PluralSight\Projects\UselessEater\UselessEater\UselessEater.QuestionServiceApi.Tests\bin\Debug\UselessEater.Models.dll
+E:\PluralSight\Projects\UselessEater\UselessEater\UselessEater.QuestionServiceApi.Tests\bin\Debug\UselessEater.Providers.dll
+E:\PluralSight\Projects\UselessEater\UselessEater\UselessEater.QuestionServiceApi.Tests\bin\Debug\UselessEater.QuestionServiceApi.dll
+E:\PluralSight\Projects\UselessEater\UselessEater\UselessEater.QuestionServiceApi.Tests\bin\Debug\Autofac.dll
+E:\PluralSight\Projects\UselessEater\UselessEater\UselessEater.QuestionServiceApi.Tests\bin\Debug\System.Web.Http.Cors.dll
+E:\PluralSight\Projects\UselessEater\UselessEater\UselessEater.QuestionServiceApi.Tests\bin\Debug\System.Web.Http.WebHost.dll
+E:\PluralSight\Projects\UselessEater\UselessEater\UselessEater.QuestionServiceApi.Tests\bin\Debug\System.Web.Cors.dll
+E:\PluralSight\Projects\UselessEater\UselessEater\UselessEater.QuestionServiceApi.Tests\bin\Debug\UselessEater.Business.pdb
+E:\PluralSight\Projects\UselessEater\UselessEater\UselessEater.QuestionServiceApi.Tests\bin\Debug\UselessEater.Models.pdb
+E:\PluralSight\Projects\UselessEater\UselessEater\UselessEater.QuestionServiceApi.Tests\bin\Debug\UselessEater.Providers.pdb
+E:\PluralSight\Projects\UselessEater\UselessEater\UselessEater.QuestionServiceApi.Tests\bin\Debug\UselessEater.QuestionServiceApi.pdb
+E:\PluralSight\Projects\UselessEater\UselessEater\UselessEater.QuestionServiceApi.Tests\bin\Debug\UselessEater.QuestionServiceApi.dll.config
+E:\PluralSight\Projects\UselessEater\UselessEater\UselessEater.QuestionServiceApi.Tests\bin\Debug\Newtonsoft.Json.xml
+E:\PluralSight\Projects\UselessEater\UselessEater\UselessEater.QuestionServiceApi.Tests\bin\Debug\System.Net.Http.Formatting.xml
+E:\PluralSight\Projects\UselessEater\UselessEater\UselessEater.QuestionServiceApi.Tests\bin\Debug\System.Web.Http.xml
+E:\PluralSight\Projects\UselessEater\UselessEater\UselessEater.QuestionServiceApi.Tests\bin\Debug\Autofac.xml
+E:\PluralSight\Projects\UselessEater\UselessEater\UselessEater.QuestionServiceApi.Tests\bin\Debug\System.Web.Http.Cors.xml
+E:\PluralSight\Projects\UselessEater\UselessEater\UselessEater.QuestionServiceApi.Tests\bin\Debug\System.Web.Http.WebHost.xml
+E:\PluralSight\Projects\UselessEater\UselessEater\UselessEater.QuestionServiceApi.Tests\obj\Debug\UselessEater.QuestionServiceApi.Tests.csprojResolveAssemblyReference.cache
+E:\PluralSight\Projects\UselessEater\UselessEater\UselessEater.QuestionServiceApi.Tests\obj\Debug\UselessEater.QuestionServiceApi.Tests.dll
+E:\PluralSight\Projects\UselessEater\UselessEater\UselessEater.QuestionServiceApi.Tests\obj\Debug\UselessEater.QuestionServiceApi.Tests.pdb

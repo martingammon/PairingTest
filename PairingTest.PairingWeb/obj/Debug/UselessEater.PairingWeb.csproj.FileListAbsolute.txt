@@ -1,0 +1,108 @@
+c:\users\stefa\onedrive\documents\visual studio 2017\Projects\UselessEater\UselessEater.PairingWeb\bin\roslyn\csc.exe
+c:\users\stefa\onedrive\documents\visual studio 2017\Projects\UselessEater\UselessEater.PairingWeb\bin\roslyn\csc.exe.config
+c:\users\stefa\onedrive\documents\visual studio 2017\Projects\UselessEater\UselessEater.PairingWeb\bin\roslyn\csc.rsp
+c:\users\stefa\onedrive\documents\visual studio 2017\Projects\UselessEater\UselessEater.PairingWeb\bin\roslyn\csi.exe
+c:\users\stefa\onedrive\documents\visual studio 2017\Projects\UselessEater\UselessEater.PairingWeb\bin\roslyn\csi.rsp
+c:\users\stefa\onedrive\documents\visual studio 2017\Projects\UselessEater\UselessEater.PairingWeb\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+c:\users\stefa\onedrive\documents\visual studio 2017\Projects\UselessEater\UselessEater.PairingWeb\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+c:\users\stefa\onedrive\documents\visual studio 2017\Projects\UselessEater\UselessEater.PairingWeb\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+c:\users\stefa\onedrive\documents\visual studio 2017\Projects\UselessEater\UselessEater.PairingWeb\bin\roslyn\Microsoft.CodeAnalysis.dll
+c:\users\stefa\onedrive\documents\visual studio 2017\Projects\UselessEater\UselessEater.PairingWeb\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+c:\users\stefa\onedrive\documents\visual studio 2017\Projects\UselessEater\UselessEater.PairingWeb\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+c:\users\stefa\onedrive\documents\visual studio 2017\Projects\UselessEater\UselessEater.PairingWeb\bin\roslyn\Microsoft.CSharp.Core.targets
+c:\users\stefa\onedrive\documents\visual studio 2017\Projects\UselessEater\UselessEater.PairingWeb\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+c:\users\stefa\onedrive\documents\visual studio 2017\Projects\UselessEater\UselessEater.PairingWeb\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+c:\users\stefa\onedrive\documents\visual studio 2017\Projects\UselessEater\UselessEater.PairingWeb\bin\roslyn\Microsoft.VisualBasic.Core.targets
+c:\users\stefa\onedrive\documents\visual studio 2017\Projects\UselessEater\UselessEater.PairingWeb\bin\roslyn\System.AppContext.dll
+c:\users\stefa\onedrive\documents\visual studio 2017\Projects\UselessEater\UselessEater.PairingWeb\bin\roslyn\System.Collections.Immutable.dll
+c:\users\stefa\onedrive\documents\visual studio 2017\Projects\UselessEater\UselessEater.PairingWeb\bin\roslyn\System.Diagnostics.StackTrace.dll
+c:\users\stefa\onedrive\documents\visual studio 2017\Projects\UselessEater\UselessEater.PairingWeb\bin\roslyn\System.IO.FileSystem.dll
+c:\users\stefa\onedrive\documents\visual studio 2017\Projects\UselessEater\UselessEater.PairingWeb\bin\roslyn\System.IO.FileSystem.Primitives.dll
+c:\users\stefa\onedrive\documents\visual studio 2017\Projects\UselessEater\UselessEater.PairingWeb\bin\roslyn\System.Reflection.Metadata.dll
+c:\users\stefa\onedrive\documents\visual studio 2017\Projects\UselessEater\UselessEater.PairingWeb\bin\roslyn\vbc.exe
+c:\users\stefa\onedrive\documents\visual studio 2017\Projects\UselessEater\UselessEater.PairingWeb\bin\roslyn\vbc.exe.config
+c:\users\stefa\onedrive\documents\visual studio 2017\Projects\UselessEater\UselessEater.PairingWeb\bin\roslyn\vbc.rsp
+c:\users\stefa\onedrive\documents\visual studio 2017\Projects\UselessEater\UselessEater.PairingWeb\bin\roslyn\VBCSCompiler.exe
+c:\users\stefa\onedrive\documents\visual studio 2017\Projects\UselessEater\UselessEater.PairingWeb\bin\roslyn\VBCSCompiler.exe.config
+c:\users\stefa\onedrive\documents\visual studio 2017\Projects\UselessEater\UselessEater.PairingWeb\bin\UselessEater.PairingWeb.dll.config
+c:\users\stefa\onedrive\documents\visual studio 2017\Projects\UselessEater\UselessEater.PairingWeb\bin\UselessEater.PairingWeb.dll
+c:\users\stefa\onedrive\documents\visual studio 2017\Projects\UselessEater\UselessEater.PairingWeb\bin\UselessEater.PairingWeb.pdb
+c:\users\stefa\onedrive\documents\visual studio 2017\Projects\UselessEater\UselessEater.PairingWeb\bin\Antlr3.Runtime.dll
+c:\users\stefa\onedrive\documents\visual studio 2017\Projects\UselessEater\UselessEater.PairingWeb\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+c:\users\stefa\onedrive\documents\visual studio 2017\Projects\UselessEater\UselessEater.PairingWeb\bin\Microsoft.Web.Infrastructure.dll
+c:\users\stefa\onedrive\documents\visual studio 2017\Projects\UselessEater\UselessEater.PairingWeb\bin\Newtonsoft.Json.dll
+c:\users\stefa\onedrive\documents\visual studio 2017\Projects\UselessEater\UselessEater.PairingWeb\bin\System.Web.Helpers.dll
+c:\users\stefa\onedrive\documents\visual studio 2017\Projects\UselessEater\UselessEater.PairingWeb\bin\System.Web.Mvc.dll
+c:\users\stefa\onedrive\documents\visual studio 2017\Projects\UselessEater\UselessEater.PairingWeb\bin\System.Web.Optimization.dll
+c:\users\stefa\onedrive\documents\visual studio 2017\Projects\UselessEater\UselessEater.PairingWeb\bin\System.Web.Razor.dll
+c:\users\stefa\onedrive\documents\visual studio 2017\Projects\UselessEater\UselessEater.PairingWeb\bin\System.Web.Webpages.Deployment.dll
+c:\users\stefa\onedrive\documents\visual studio 2017\Projects\UselessEater\UselessEater.PairingWeb\bin\System.Web.Webpages.dll
+c:\users\stefa\onedrive\documents\visual studio 2017\Projects\UselessEater\UselessEater.PairingWeb\bin\System.Web.Webpages.Razor.dll
+c:\users\stefa\onedrive\documents\visual studio 2017\Projects\UselessEater\UselessEater.PairingWeb\bin\WebGrease.dll
+c:\users\stefa\onedrive\documents\visual studio 2017\Projects\UselessEater\UselessEater.PairingWeb\bin\Antlr3.Runtime.pdb
+c:\users\stefa\onedrive\documents\visual studio 2017\Projects\UselessEater\UselessEater.PairingWeb\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+c:\users\stefa\onedrive\documents\visual studio 2017\Projects\UselessEater\UselessEater.PairingWeb\bin\Newtonsoft.Json.xml
+c:\users\stefa\onedrive\documents\visual studio 2017\Projects\UselessEater\UselessEater.PairingWeb\bin\System.Web.Optimization.xml
+c:\users\stefa\onedrive\documents\visual studio 2017\Projects\UselessEater\UselessEater.PairingWeb\bin\System.Web.Razor.xml
+c:\users\stefa\onedrive\documents\visual studio 2017\Projects\UselessEater\UselessEater.PairingWeb\bin\System.Web.Webpages.xml
+c:\users\stefa\onedrive\documents\visual studio 2017\Projects\UselessEater\UselessEater.PairingWeb\bin\System.Web.Webpages.Deployment.xml
+c:\users\stefa\onedrive\documents\visual studio 2017\Projects\UselessEater\UselessEater.PairingWeb\bin\System.Web.Webpages.Razor.xml
+c:\users\stefa\onedrive\documents\visual studio 2017\Projects\UselessEater\UselessEater.PairingWeb\bin\System.Web.Helpers.xml
+c:\users\stefa\onedrive\documents\visual studio 2017\Projects\UselessEater\UselessEater.PairingWeb\bin\System.Web.Mvc.xml
+c:\users\stefa\onedrive\documents\visual studio 2017\Projects\UselessEater\UselessEater.PairingWeb\obj\Debug\UselessEater.PairingWeb.csprojResolveAssemblyReference.cache
+c:\users\stefa\onedrive\documents\visual studio 2017\Projects\UselessEater\UselessEater.PairingWeb\obj\Debug\UselessEater.PairingWeb.dll
+c:\users\stefa\onedrive\documents\visual studio 2017\Projects\UselessEater\UselessEater.PairingWeb\obj\Debug\UselessEater.PairingWeb.pdb
+E:\PluralSight\Projects\UselessEater\UselessEater\UselessEater.PairingWeb\bin\roslyn\csc.exe
+E:\PluralSight\Projects\UselessEater\UselessEater\UselessEater.PairingWeb\bin\roslyn\csc.exe.config
+E:\PluralSight\Projects\UselessEater\UselessEater\UselessEater.PairingWeb\bin\roslyn\csc.rsp
+E:\PluralSight\Projects\UselessEater\UselessEater\UselessEater.PairingWeb\bin\roslyn\csi.exe
+E:\PluralSight\Projects\UselessEater\UselessEater\UselessEater.PairingWeb\bin\roslyn\csi.rsp
+E:\PluralSight\Projects\UselessEater\UselessEater\UselessEater.PairingWeb\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+E:\PluralSight\Projects\UselessEater\UselessEater\UselessEater.PairingWeb\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+E:\PluralSight\Projects\UselessEater\UselessEater\UselessEater.PairingWeb\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+E:\PluralSight\Projects\UselessEater\UselessEater\UselessEater.PairingWeb\bin\roslyn\Microsoft.CodeAnalysis.dll
+E:\PluralSight\Projects\UselessEater\UselessEater\UselessEater.PairingWeb\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+E:\PluralSight\Projects\UselessEater\UselessEater\UselessEater.PairingWeb\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+E:\PluralSight\Projects\UselessEater\UselessEater\UselessEater.PairingWeb\bin\roslyn\Microsoft.CSharp.Core.targets
+E:\PluralSight\Projects\UselessEater\UselessEater\UselessEater.PairingWeb\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+E:\PluralSight\Projects\UselessEater\UselessEater\UselessEater.PairingWeb\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+E:\PluralSight\Projects\UselessEater\UselessEater\UselessEater.PairingWeb\bin\roslyn\Microsoft.VisualBasic.Core.targets
+E:\PluralSight\Projects\UselessEater\UselessEater\UselessEater.PairingWeb\bin\roslyn\System.AppContext.dll
+E:\PluralSight\Projects\UselessEater\UselessEater\UselessEater.PairingWeb\bin\roslyn\System.Collections.Immutable.dll
+E:\PluralSight\Projects\UselessEater\UselessEater\UselessEater.PairingWeb\bin\roslyn\System.Diagnostics.StackTrace.dll
+E:\PluralSight\Projects\UselessEater\UselessEater\UselessEater.PairingWeb\bin\roslyn\System.IO.FileSystem.dll
+E:\PluralSight\Projects\UselessEater\UselessEater\UselessEater.PairingWeb\bin\roslyn\System.IO.FileSystem.Primitives.dll
+E:\PluralSight\Projects\UselessEater\UselessEater\UselessEater.PairingWeb\bin\roslyn\System.Reflection.Metadata.dll
+E:\PluralSight\Projects\UselessEater\UselessEater\UselessEater.PairingWeb\bin\roslyn\vbc.exe
+E:\PluralSight\Projects\UselessEater\UselessEater\UselessEater.PairingWeb\bin\roslyn\vbc.exe.config
+E:\PluralSight\Projects\UselessEater\UselessEater\UselessEater.PairingWeb\bin\roslyn\vbc.rsp
+E:\PluralSight\Projects\UselessEater\UselessEater\UselessEater.PairingWeb\bin\roslyn\VBCSCompiler.exe
+E:\PluralSight\Projects\UselessEater\UselessEater\UselessEater.PairingWeb\bin\roslyn\VBCSCompiler.exe.config
+E:\PluralSight\Projects\UselessEater\UselessEater\UselessEater.PairingWeb\bin\UselessEater.PairingWeb.dll.config
+E:\PluralSight\Projects\UselessEater\UselessEater\UselessEater.PairingWeb\bin\UselessEater.PairingWeb.dll
+E:\PluralSight\Projects\UselessEater\UselessEater\UselessEater.PairingWeb\bin\UselessEater.PairingWeb.pdb
+E:\PluralSight\Projects\UselessEater\UselessEater\UselessEater.PairingWeb\bin\Antlr3.Runtime.dll
+E:\PluralSight\Projects\UselessEater\UselessEater\UselessEater.PairingWeb\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+E:\PluralSight\Projects\UselessEater\UselessEater\UselessEater.PairingWeb\bin\Microsoft.Web.Infrastructure.dll
+E:\PluralSight\Projects\UselessEater\UselessEater\UselessEater.PairingWeb\bin\Newtonsoft.Json.dll
+E:\PluralSight\Projects\UselessEater\UselessEater\UselessEater.PairingWeb\bin\System.Web.Helpers.dll
+E:\PluralSight\Projects\UselessEater\UselessEater\UselessEater.PairingWeb\bin\System.Web.Mvc.dll
+E:\PluralSight\Projects\UselessEater\UselessEater\UselessEater.PairingWeb\bin\System.Web.Optimization.dll
+E:\PluralSight\Projects\UselessEater\UselessEater\UselessEater.PairingWeb\bin\System.Web.Razor.dll
+E:\PluralSight\Projects\UselessEater\UselessEater\UselessEater.PairingWeb\bin\System.Web.Webpages.Deployment.dll
+E:\PluralSight\Projects\UselessEater\UselessEater\UselessEater.PairingWeb\bin\System.Web.Webpages.dll
+E:\PluralSight\Projects\UselessEater\UselessEater\UselessEater.PairingWeb\bin\System.Web.Webpages.Razor.dll
+E:\PluralSight\Projects\UselessEater\UselessEater\UselessEater.PairingWeb\bin\WebGrease.dll
+E:\PluralSight\Projects\UselessEater\UselessEater\UselessEater.PairingWeb\bin\Antlr3.Runtime.pdb
+E:\PluralSight\Projects\UselessEater\UselessEater\UselessEater.PairingWeb\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+E:\PluralSight\Projects\UselessEater\UselessEater\UselessEater.PairingWeb\bin\Newtonsoft.Json.xml
+E:\PluralSight\Projects\UselessEater\UselessEater\UselessEater.PairingWeb\bin\System.Web.Optimization.xml
+E:\PluralSight\Projects\UselessEater\UselessEater\UselessEater.PairingWeb\bin\System.Web.Razor.xml
+E:\PluralSight\Projects\UselessEater\UselessEater\UselessEater.PairingWeb\bin\System.Web.Webpages.xml
+E:\PluralSight\Projects\UselessEater\UselessEater\UselessEater.PairingWeb\bin\System.Web.Webpages.Deployment.xml
+E:\PluralSight\Projects\UselessEater\UselessEater\UselessEater.PairingWeb\bin\System.Web.Webpages.Razor.xml
+E:\PluralSight\Projects\UselessEater\UselessEater\UselessEater.PairingWeb\bin\System.Web.Helpers.xml
+E:\PluralSight\Projects\UselessEater\UselessEater\UselessEater.PairingWeb\bin\System.Web.Mvc.xml
+E:\PluralSight\Projects\UselessEater\UselessEater\UselessEater.PairingWeb\obj\Debug\UselessEater.PairingWeb.csprojResolveAssemblyReference.cache
+E:\PluralSight\Projects\UselessEater\UselessEater\UselessEater.PairingWeb\obj\Debug\UselessEater.PairingWeb.dll
+E:\PluralSight\Projects\UselessEater\UselessEater\UselessEater.PairingWeb\obj\Debug\UselessEater.PairingWeb.pdb

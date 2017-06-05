@@ -1,0 +1,9 @@
+E:\PluralSight\Projects\UselessEater\UselessEater\UselessEater.Models\bin\Debug\UselessEater.Models.dll
+E:\PluralSight\Projects\UselessEater\UselessEater\UselessEater.Models\bin\Debug\UselessEater.Models.pdb
+E:\PluralSight\Projects\UselessEater\UselessEater\UselessEater.Models\obj\Debug\PairingTest.Models.csprojResolveAssemblyReference.cache
+E:\PluralSight\Projects\UselessEater\UselessEater\UselessEater.Models\obj\Debug\UselessEater.Models.dll
+E:\PluralSight\Projects\UselessEater\UselessEater\UselessEater.Models\obj\Debug\UselessEater.Models.pdb
+E:\PluralSight\Projects\UselessEater\PairingTest\PairingTest.Models\bin\Debug\UselessEater.Models.dll
+E:\PluralSight\Projects\UselessEater\PairingTest\PairingTest.Models\bin\Debug\UselessEater.Models.pdb
+E:\PluralSight\Projects\UselessEater\PairingTest\PairingTest.Models\obj\Debug\UselessEater.Models.dll
+E:\PluralSight\Projects\UselessEater\PairingTest\PairingTest.Models\obj\Debug\UselessEater.Models.pdb

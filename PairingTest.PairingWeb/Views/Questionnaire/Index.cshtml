@@ -1,0 +1,23 @@
+﻿@using System.Configuration
+@using System.Web.Optimization
+@{
+    //var basehref = ConfigurationManager.AppSettings["QuestionnaireServiceUri"];
+    Layout = "~/Views/Shared/_Layout.cshtml";
+    ViewBag.Title = "Questionnaire";
+
+}
+<noscript>
+    <style>
+        .page-body {
+            display: block;
+        }
+    </style>
+    <h1>Please enable javascript before accessing this site.</h1>
+</noscript>
+<div>
+    <div ng-view></div>
+</div>
+@section scripts{
+    @Scripts.Render("~/bundles/scripts")
+   
+}
